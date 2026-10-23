@@ -29,8 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: radicalspace
 
 # Build settings
-theme: jekyll-whiteglass
+remote_theme: yous/whiteglass
 plugins:
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
