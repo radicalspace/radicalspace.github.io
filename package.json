@@ -35,7 +35,7 @@
 		"prettier-plugin-tailwindcss": "^0.8.0",
 		"rehype-katex-svelte": "^1.2.0",
 		"remark-math": "^3.0.0",
-		"svelte": "^5.57.2",
+		"svelte": "^5.57.3",
 		"svelte-check": "^4.6.0",
 		"tailwindcss": "^4.3.0",
 		"typescript": "^6.0.3",
